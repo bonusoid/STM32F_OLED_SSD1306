@@ -1,0 +1,11 @@
+main.c:76:5:main	8	static
+main.c:162:6:SystemClock_Config	96	static
+main.c:204:13:MX_GPIO_Init	16	static
+main.c:213:6:drawInt	16	static
+main.c:231:6:drawAlphanum	16	static
+main.c:244:6:drawPunct	16	static
+main.c:253:6:drawFrame	32	static
+main.c:285:6:drawArrow	32	static
+main.c:304:6:drawBytes	32	static
+main.c:329:6:drawLoadingBar	24	static
+main.c:349:6:Error_Handler	8	static,ignoring_inline_asm

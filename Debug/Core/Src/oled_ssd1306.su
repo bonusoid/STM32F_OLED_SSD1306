@@ -1,0 +1,14 @@
+oled_ssd1306.c:8:6:ssd1306_init	16	static
+oled_ssd1306.c:37:6:ssd1306_sendcom	16	static
+oled_ssd1306.c:42:6:ssd1306_senddat	16	static
+oled_ssd1306.c:47:6:ssd1306_setpos	24	static
+oled_ssd1306.c:54:6:ssd1306_clear	24	static
+oled_ssd1306.c:67:6:OLED_setpos	24	static
+oled_ssd1306.c:72:6:OLED_drawbyte	16	static
+oled_ssd1306.c:77:6:OLED_drawchar	40	static
+oled_ssd1306.c:106:6:OLED_drawtext	32	static
+oled_ssd1306.c:117:6:OLED_drawint	48	static
+oled_ssd1306.c:141:6:OLED_clear	16	static
+oled_ssd1306.c:148:6:OLED_clearblock	32	static
+oled_ssd1306.c:159:6:OLED_normal	16	static
+oled_ssd1306.c:164:6:OLED_reverse	16	static

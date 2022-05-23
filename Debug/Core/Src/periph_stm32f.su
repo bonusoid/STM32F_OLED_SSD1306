@@ -1,0 +1,2 @@
+periph_stm32f.c:16:6:MX_I2C1_Init	8	static
+periph_stm32f.c:57:6:i2c_write_2byte	40	static
